@@ -6,6 +6,7 @@ nombre = "Daniel"
 
 # Enteros es números enteros (int)
 edad = 19
+hermanos = 3
 
 edad2 = "19"
 
@@ -21,10 +22,9 @@ edad = float(edad) # Casteo transformar un tipo de variable a otro
 print (edad)
 
 # Con type sabes de que tipo es la variable
-print(type(nombre), type(edad))
+print(type(nombre), type(edad), type (hermanos))
 
 # Bool si o no
 Buenastardes = False
 Buenastardes = True
 
-print(Buenastardes)
