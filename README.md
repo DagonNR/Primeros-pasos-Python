@@ -1,7 +1,7 @@
 # Primeros pasos en Python (PPP)
 Esto es un recopilatorio, sobre los primeros pasos de un novato en Python, usando lo más básico para aprender.
 
-![Python logo](https://logoeps.com/wp-content/uploads/2012/10/python-logo-vector.png)
+![Python logo](https://github.com/DagonNR/Primeros-pasos-Python/blob/main/imagenes/Python-logo.png)
 
 Este repositorio, puede ayudarte a seguir los primeros pasos de python, para empezar a usarlo.
 
