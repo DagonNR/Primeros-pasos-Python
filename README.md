@@ -5,14 +5,14 @@ Esto es un recopilatorio, sobre los primeros pasos de un novato en Python, usand
 
 Este repositorio, puede ayudarte a seguir los primeros pasos de python, para empezar a usarlo.
 
-**Requisitos**
+## **Requisitos**
 - [Python](https://www.python.org) 3.6 o una versión superior
 - Computadora con sistema operativo de "Windows", "MacOS" o "Linux"
 - Editor de texto, como [Visual Studio Code](https://code.visualstudio.com) 
 
---------------------------
+---
 
-**Archivos**
+## **Archivos**
 En este repositorio tenemos diversos archivos, más concretamente 4 (contando el README), los cuales cada uno tiene un propósito diferente, los cuales son:
 
 - holamundo
